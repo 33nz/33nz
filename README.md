@@ -1,4 +1,24 @@
-<h2 align="left">Kia Ora / Hello 👋! My name is Jacob and I'm a Full-stack developer, from New Zealand 🥝</h2>
+<h1 align="left">Kia Ora / Hello 🙃</h1>
+<h2>I'm Jacob Wingate, a Full-stack developer from New Zealand 🥝 </h2>
+
+
+<h3>About Me</h3>
+<p>Full-stack developer with a business background. Merging technical skills with business acumen to bring a valuable perspective to tech teams. Lifelong learner, thriving in collaborative environments.</p>
+
+<h3>Experience</h3>
+<ul>
+  <li>Full-Stack Web Developer (Trainee) | Dev Academy Aotearoa (April 2023 - July 2024)</li>
+  <li>Proven business development & sales leadership experience across an array of industries </li>
+</ul>
+
+<h3>Education</h3>
+<ul>
+  <li>Level 6 Web Development Training Scheme | Dev Academy Aotearoa (April 2024 - July 2024)</li>
+  <li>Graduate Diplome Strategic Management | University of Waikato (Feb 2020 - Novemer 2020)</li>
+  <li>Full CV available upon request</li>
+</ul>
+<br></br>
+<p><em>I would love to connect!</em></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -21,15 +41,8 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/jacob-wingate-65a2225a/">
+  <a href="https://www.linkedin.com/in/jacob-wingate-65a2225a/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
