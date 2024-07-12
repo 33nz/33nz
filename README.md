@@ -1,5 +1,5 @@
-<h1 align="left">Kia Ora / Hello 🙃</h1>
-<h2>I'm Jacob Wingate, a Full-stack developer from New Zealand 🥝 </h2>
+<h1 align="left">Kia Ora / Hello 🥝</h1>
+<h2>I'm Jacob Wingate, a Full-stack developer from New Zealand 🇳🇿</h2>
 
 
 <h3>About Me</h3>
@@ -17,9 +17,8 @@
   <li>Graduate Diplome Strategic Management | University of Waikato (Feb 2020 - Novemer 2020)</li>
   <li>Full CV available upon request</li>
 </ul>
-<br></br>
-<p><em>I would love to connect!</em></p>
 
+<h3>Skilled In</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +36,9 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" height="30" alt="tailwind css logo"  />
 </div>
+<br>
+
+<p><em>I would love to connect!</em></p>
 
 ###
 
