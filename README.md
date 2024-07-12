@@ -16,7 +16,7 @@
 <h3>Education</h3>
 <ul>
   <li>Level 6 Web Development Training Scheme | Dev Academy Aotearoa (April 2024 - July 2024)</li>
-  <li>Graduate Diplome Strategic Management | University of Waikato (Feb 2020 - Novemer 2020)</li>
+  <li>Graduate Diplome Strategic Management | University of Waikato (Feb 2020 - November 2020)</li>
   <li>Full CV available upon request</li>
 </ul>
 
