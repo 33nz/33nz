@@ -1,9 +1,11 @@
-<h1 align="left">Kia Ora / Hello 🥝</h1>
-<h2>I'm Jacob Wingate, a Full-stack developer from New Zealand 🇳🇿</h2>
+<h1 align="left">Kia Ora / Hello 🙂</h1>
+<h2>I'm Jacob Wingate, a Full-stack developer from New Zealand 🥝🇳🇿</h2>
 
+<h3>My Projects</h3>
+<p>These projects were built by myself and my peers during group work over my 4-month bootcamp at Dev Academy Aotearoa (NZ). Watch this space as I continue to develop my projects further. This is only the beginning! </p>
 
 <h3>About Me</h3>
-<p>Full-stack developer with a business background. Merging technical skills with business acumen to bring a valuable perspective to tech teams. Lifelong learner, thriving in collaborative environments.</p>
+<p>I'm a Full-stack developer with a business background. Merging technical skills with business acumen to bring a valuable perspective to tech teams. My young family and I are currenty spenidng some time abroad and are living in Austria 🇦🇹</p>
 
 <h3>Experience</h3>
 <ul>
