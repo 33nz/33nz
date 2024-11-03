@@ -40,7 +40,7 @@
 </div>
 <br>
 
-<p><em>I would love to connect!</em></p>
+<p><em>Email me or reach out on LinkedIn if you would like to connect.</em></p>
 
 ###
 
